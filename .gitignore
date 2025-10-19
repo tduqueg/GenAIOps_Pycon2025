@@ -16,6 +16,7 @@ vectorstore/
 # Python virtual environments
 venv/
 .envrc
+.venv/
 
 # DVC cache (si se usa)
 .dvc/cache/
@@ -26,3 +27,5 @@ venv/
 
 app/run_eval_tarea.py
 app/dashboard_tarea.py
+
+data/

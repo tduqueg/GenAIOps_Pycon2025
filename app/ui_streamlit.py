@@ -8,7 +8,7 @@ st.set_page_config(page_title="Chatbot GenAI RRHH", layout="centered")
 from app.rag_pipeline import load_vectorstore_from_disk, build_chain
 
 
-st.title("🤖 Asistente de Recursos Humanos - Contoso")
+st.title("🤖 Asistente de Atención al Cliente - BRYKA")
 
 question = st.text_input("Escribe tu pregunta sobre beneficios o políticas laborales:")
 
@@ -27,5 +27,5 @@ if question:
 if st.session_state.chat_history:
     st.markdown("---")    
     for q, a in reversed(st.session_state.chat_history):
-        st.markdown(f"**🧑 Usuario:** {q}")
+        st.markdown(f"**🧑 Bryka Lover:** {q}")
         st.markdown(f"**🤖 Bot:** {a}")

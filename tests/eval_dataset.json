@@ -1,22 +1,82 @@
 [
-    {
-        "question": "\u00bfQu\u00e9 cubre el plan de beneficios Northwind Health Plus?",
-        "answer": "El plan Northwind Health Plus cubre atenci\u00f3n m\u00e9dica, dental, de la vista, medicamentos recetados y servicios de salud mental."
-    },
-    {
-        "question": "\u00bfCu\u00e1l es el procedimiento para tomar una licencia por maternidad?",
-        "answer": "Debes notificar a Recursos Humanos al menos 30 d\u00edas antes de la fecha esperada y presentar la documentaci\u00f3n m\u00e9dica correspondiente."
-    },
-    {
-        "question": "\u00bfQu\u00e9 incluye el programa PerksPlus?",
-        "answer": "PerksPlus incluye descuentos en gimnasios, membres\u00edas de bienestar, vales de alimentos y soporte financiero."
-    },
-    {
-        "question": "\u00bfQu\u00e9 responsabilidades tiene un analista de datos seg\u00fan el role library?",
-        "answer": "Seg\u00fan el Role Library, un analista de datos debe recolectar, limpiar y analizar datos para generar reportes estrat\u00e9gicos para el negocio."
-    },
-    {
-        "question": "\u00bfCu\u00e1les son los beneficios est\u00e1ndar de Northwind?",
-        "answer": "Los beneficios est\u00e1ndar incluyen seguro m\u00e9dico b\u00e1sico, vacaciones pagadas, y plan de retiro 401(k)."
-    }
+  {
+    "question": "¿Cuál es el sitio web oficial de BRYKA?",
+    "answer": "brykamakeup.com"
+  },
+  {
+    "question": "¿Cuál es el email corporativo de BRYKA?",
+    "answer": "contactenos@brykamakeup.com"
+  },
+  {
+    "question": "¿Cuáles son los horarios de atención de BRYKA?",
+    "answer": "• Lunes a viernes: 9:00 a.m. a 6:00 p.m.\n• Sábados: 9:00 a.m. a 1:00 p.m.\n• Domingos: Cerrado"
+  },
+  {
+    "question": "¿Cuál es el costo del envío al siguiente día hábil?",
+    "answer": "Tiene un costo de $15.000 COP."
+  },
+  {
+    "question": "¿Cuál es el costo del envío el mismo día hábil?",
+    "answer": "con un costo de $16.000 COP."
+  },
+  {
+    "question": "¿Cuál es el costo y tiempo estimado de los envíos nacionales?",
+    "answer": "Para el resto del país, el costo es de $15.000 COP, con un tiempo estimado de entrega entre 2 y 5 días hábiles."
+  },
+  {
+    "question": "¿Cuál es el costo y tiempo estimado de envíos a San Andrés, Providencia, Amazonas, Arauca, Guainía, Guaviare y Vaupés?",
+    "answer": "En los destinos de San Andrés y Providencia, Amazonas, Arauca, Guainía, Guaviare y Vaupés, el costo del envío es de $32.000 COP, con un tiempo estimado de entrega entre 3 y 6 días hábiles."
+  },
+  {
+    "question": "¿Desde qué monto hay envío gratuito?",
+    "answer": "Ofrecemos envío gratuito en compras superiores a $250.000 COP."
+  },
+  {
+    "question": "¿Cuál es el tiempo de entrega indicado en la política?",
+    "answer": "Los tiempos de entrega indicados para cada tipo de envío son estimados de 1-4 dias y pueden variar debido a circunstancias ajenas a nuestro control, como condiciones climáticas, restricciones en la zona de entrega o inconvenientes logísticos."
+  },
+  {
+    "question": "¿Cuál es el plazo para solicitar devoluciones según la Ley 1480?",
+    "answer": "De acuerdo con la Ley 1480 de 2011, Artículo 47, las devoluciones deben solicitarse dentro de los primeros 5 días hábiles posteriores a la recepción del producto."
+  },
+  {
+    "question": "¿En cuánto tiempo procesan el reembolso después de aprobar una devolución?",
+    "answer": "Una vez que el producto haya sido recibido y aprobado para devolución, procesaremos el reembolso en un plazo de hasta 10 días hábiles."
+  },
+  {
+    "question": "¿Cuál es la dirección para enviar devoluciones?",
+    "answer": "BRYKA S.A.S.\nCalle 77 sur 50 a 195, Mall 77 sur, segundo piso, local 112\nLa Estrella, Antioquia\nNIT: 901824153-3"
+  },
+  {
+    "question": "¿Cuáles son las formas de pago aceptadas?",
+    "answer": "• Efectivo\n• Transferencia bancaria\n• Tarjetas de crédito y débito\n• PSE (Pagos Seguros en Línea)\n• Plataforma Wompi\n• Pago Contraentrega"
+  },
+  {
+    "question": "¿Cuál es la cuenta Bancolombia para pagos?",
+    "answer": "Cuenta de Ahorros Bancolombia: #33300006355"
+  },
+  {
+    "question": "Recomendación: ¿Qué modelos enteros de banda naturales discretos sugieren?",
+    "answer": "Si estas buscando algo con un acabado natural puedo recomendarte en orden de naturalidad: Mini moi, Petite, Lupe, Organic, Helena y Martina estas todas son de pelo negro o tenemos también las pestañas chocolate (de pelo café oscuro) que lucen muy naturales, o tenemos también un kit mixto donde tendrás 10 referencias distintas de pestañas que tiene modelos muy naturales hasta otros un poco más intensos."
+  },
+  {
+    "question": "Recomendación: ¿Qué modelos enteros de banda naturales pero que se noten sugieren?",
+    "answer": "Si quieres algo natural pero que se note podría recomendarte: Novia mia, Tasha, Tokio, Bridal party, love story, Angel wings o siren eyes, o tenemos también un kit mixto donde tendrás 10 referencias distintas de pestañas que tiene modelos muy naturales hasta otros un poco más intensos."
+  },
+  {
+    "question": "Recomendación: ¿Qué modelos enteros de banda intensos/ dramáticos sugieren?",
+    "answer": "Si estas buscando elevar tu look con unas pestañas un poco más dramáticas o eres de ojos grandes tenemos estas opciones para ti: Iconic, Fluffy xs, Foxy+, kim, loto 9, loto 2 o tenemos también un kit mixto donde tendrás 10 referencias distintas de pestañas que tiene modelos muy naturales hasta otros un poco más intensos."
+  },
+  {
+    "question": "Recomendación: ¿Qué modelos individuales de punto naturales discretos sugieren?",
+    "answer": "Si estas buscando un acabado muy natural puedo recomendarte estas opciones que son todas muy naturales: Fluff01, soft natural, efecto ruso, Mocaccino, espresso, go wisp, la mayoría de estos modelos podemos ofrecértelos en caja pequeña de 3 líneas que contiene 36 puntos o en caja jumbo que contiene 10 líneas y 120 puntos para tu mayor economía o tenemos también un kit mixto EUPHORIA MIX."
+  },
+  {
+    "question": "Recomendación: ¿Qué modelos individuales de punto naturales pero que se noten sugieren?",
+    "answer": "Si estas buscando un modelo efecto pestañina o que se note un poco más pero que siga siendo natural estos modelos son perfectos: Natural effect, fluff 02, fluff 03, la mayoría de estos modelos podemos ofrecértelos en caja pequeña de 3 líneas que contiene 36 puntos o en caja jumbo que contiene 10 líneas y 120 puntos para tu mayor economía."
+  },
+  {
+    "question": "¿Cuál es el NIT de BRYKA S.A.S. según el RUT?",
+    "answer": "901824153-3"
+  }
 ]

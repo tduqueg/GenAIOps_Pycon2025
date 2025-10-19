@@ -1,7 +1,11 @@
 # app/rag_pipeline.py
 
 import os
-from langchain.globals import set_verbose, get_verbose
+try:
+    from langchain.globals import set_verbose, get_verbose
+except ImportError:
+    from langchain_core.globals import set_verbose, get_verbose
+set_verbose(False)
 
 set_verbose(True)  # Si quieres ver logs detallados
 

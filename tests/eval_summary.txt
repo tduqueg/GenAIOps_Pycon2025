@@ -1,0 +1,35 @@
+Experimento: eval_v1_asistente_rrhh
+Items evaluados: 20
+
+Resultados por pregunta
+========================================================================================================================
+ #    QA   QA_CTX   CORR    REL    COH  Docs  Pregunta
+------------------------------------------------------------------------------------------------------------------------
+ 1  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el sitio web oficial de BRYKA?
+ 2  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el email corporativo de BRYKA?
+ 3  1.00  1.00   1.00   1.00   1.00      6  ¿Cuáles son los horarios de atención de BRYKA?
+ 4  0.00  0.00   0.00   0.00   0.00      6  ¿Cuál es el costo del envío al siguiente día hábil?
+ 5  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el costo del envío el mismo día hábil?
+ 6  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el costo y tiempo estimado de los envíos nacionales?
+ 7  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el costo y tiempo estimado de envíos a San Andrés, Providencia, Amazonas, Arauca, Guainía, Guaviare y Vaupés?
+ 8  1.00  1.00   1.00   1.00   1.00      6  ¿Desde qué monto hay envío gratuito?
+ 9  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el tiempo de entrega indicado en la política?
+10  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el plazo para solicitar devoluciones según la Ley 1480?
+11  1.00  1.00   1.00   1.00   1.00      6  ¿En cuánto tiempo procesan el reembolso después de aprobar una devolución?
+12  0.00  0.00   1.00   1.00   1.00      6  ¿Cuál es la dirección para enviar devoluciones?
+13  1.00  1.00   1.00   1.00   1.00      6  ¿Cuáles son las formas de pago aceptadas?
+14  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es la cuenta Bancolombia para pagos?
+15  1.00  1.00   1.00   1.00   1.00      6  Recomendación: ¿Qué modelos enteros de banda naturales discretos sugieren?
+16  1.00  1.00   1.00   1.00   1.00      6  Recomendación: ¿Qué modelos enteros de banda naturales pero que se noten sugieren?
+17  1.00  1.00   1.00   1.00   1.00      6  Recomendación: ¿Qué modelos enteros de banda intensos/ dramáticos sugieren?
+18  1.00  1.00   1.00   1.00   1.00      6  Recomendación: ¿Qué modelos individuales de punto naturales discretos sugieren?
+19  1.00  1.00   1.00   1.00   1.00      6  Recomendación: ¿Qué modelos individuales de punto naturales pero que se noten sugieren?
+20  1.00  1.00   1.00   1.00   1.00      6  ¿Cuál es el NIT de BRYKA S.A.S. según el RUT?
+
+Promedios
+---------
+QA(no-ctx): 0.900
+QA(ctx)   : 0.900
+Correctness: 0.950
+Relevance  : 0.950
+Coherence  : 0.950
